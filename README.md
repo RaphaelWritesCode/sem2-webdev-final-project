@@ -2,8 +2,6 @@
 
 A multi-page website dedicated to showcasing information about my favourite game, including its history, rules, and user reviews. Created as a final assessment for WEB222.
 
-![Screenshot of the website](path-to-your-screenshot.png)
-
 ## Table of Contents
 - [Features](#features)
 - [Static Hosting](#static-hosting)
