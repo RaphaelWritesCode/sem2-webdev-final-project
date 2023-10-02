@@ -6,8 +6,6 @@ A multi-page website dedicated to showcasing information about my favourite game
 - [Features](#features)
 - [Static Hosting](#static-hosting)
 - [Reflection Video](#reflection-video)
-- [Getting Started](#getting-started)
-- [Credits](#credits)
 
 ## Features
 
